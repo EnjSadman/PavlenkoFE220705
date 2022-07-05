@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PavlenkoFE220705/static/css/main.f1604774.css",
+    "main.js": "/PavlenkoFE220705/static/js/main.ab5f0b88.js",
+    "static/js/787.c09e1475.chunk.js": "/PavlenkoFE220705/static/js/787.c09e1475.chunk.js",
+    "index.html": "/PavlenkoFE220705/index.html",
+    "main.f1604774.css.map": "/PavlenkoFE220705/static/css/main.f1604774.css.map",
+    "main.ab5f0b88.js.map": "/PavlenkoFE220705/static/js/main.ab5f0b88.js.map",
+    "787.c09e1475.chunk.js.map": "/PavlenkoFE220705/static/js/787.c09e1475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1604774.css",
+    "static/js/main.ab5f0b88.js"
+  ]
+}
