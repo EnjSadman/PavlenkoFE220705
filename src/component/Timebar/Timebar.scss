@@ -1,0 +1,19 @@
+.timebar {
+  display: grid;
+  background-color: grey;
+  margin-bottom: 10px;
+  color: darkblue;
+}
+
+.time_amount {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.container {
+  display: flex;
+  max-width: 600px;
+  justify-content: space-between;
+}
